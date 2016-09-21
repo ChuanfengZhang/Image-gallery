@@ -1,2 +1,2 @@
 # Image-gallery
-JavaScript DOM scripting.
+via JavaScript DOM scripting.
